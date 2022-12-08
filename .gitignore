@@ -13,5 +13,4 @@ idea
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/python-tdd-book.iml
 
-
-
+.env
